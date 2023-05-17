@@ -1,1 +1,1 @@
-""this is the my first repo github""
+""This is the my first repo github""
